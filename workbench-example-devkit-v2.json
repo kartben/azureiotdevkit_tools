@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/gallery/schemas/v4/example.json",
     "examples": [
         {
-            "name": "Device Registration with DPS",
+            "name": "Device Registration with DPS - KARTBEN",
             "project_name": "devkit_dps",
             "description": "Use the Device Provisioning Service to automatically provision security enabled devices to IoT hub.",
             "url": "https://github.com/kartben/DevKitDPS/archive/master.zip",
